@@ -1,0 +1,40 @@
+.container {
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: slategrey;
+  background-color: #181818;
+  font-weight: 100;
+}
+
+body {
+  background-color: #181818;
+}
+
+.row.historyItems {
+  padding-top: 5px;
+}
+
+h1.col-2-md.cityName {
+  font-weight: 200;
+}
+
+#fiveDay {
+  font-weight: 200;
+}
+
+.float-child {
+  width: 50%;
+  float: left;
+  padding: 20px;
+}
+
+button.btn.btn-info.history {
+  margin-left: 5px;
+}
+
+.jumbotron {
+  background-image: url("jumbtron.jpg");
+  background-size: cover;
+}
